@@ -1,4 +1,4 @@
-### Hey!
+### Hey there!
 - 🔭 I’m currently working on GSoC21 at @RedHenLab
 - 🌱 Currently attending my last year at Computer Engineering @CairoUniversity 
 - 💬 Ask me about anything right there rrrokhtar@gmail.com
