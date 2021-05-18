@@ -1,6 +1,6 @@
 ### Hey there!
-- 🔭 I’m currently working on GSoC21 at @RedHenLab
-- 🌱 Currently attending my last year at Computer Engineering @CairoUniversity 
+- 🔭 I’m currently working on GSoC21 @RedHenLab
+- 🌱 Currently attending my last year of Computer Engineering @CairoUniversity 
 - 💬 Ask me about anything right there rrrokhtar@gmail.com
 - 📫 Want to know more about me visit this https://rrrokhtar.github.io/
 <!--
