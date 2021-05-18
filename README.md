@@ -1,9 +1,10 @@
 ### Hey!
-
+- 🔭 I’m currently working on GSoC21 at @RedHenLab
+- 🌱 Currently attending my last year at Computer Engineering @CairoUniversity 
+- 💬 Ask me about anything right there rrrokhtar@gmail.com
+- 📫 Want to know more about me visit this https://rrrokhtar.github.io/
 <!--
 👋
-**mohamed-mokhtar/mohamed-mokhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
