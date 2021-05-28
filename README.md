@@ -1,8 +1,16 @@
-### Hey there!
+<div align=center>
+ <h1>Hey there!</h1>
+
 - 🔭 I’m currently working on GSoC21 @RedHenLab
 - 🌱 Currently attending my last year of Computer Engineering @CairoUniversity 
 - 💬 Ask me about anything right there rrrokhtar@gmail.com
 - 📫 Want to know more about me visit this https://rrrokhtar.github.io/
+<p align="center">
+<img src=https://github-readme-stats.vercel.app/api?username=rrrokhtar>
+  </a>
+</p>
+  </div>
+
 <!--
 👋
 Here are some ideas to get you started:
