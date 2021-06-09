@@ -1,10 +1,12 @@
 <div align=center>
  <h1>Hey there!</h1>
 
-- 🔭 I’m currently working on GSoC21 @RedHenLab
-- 🌱 Currently attending my last year of Computer Engineering @CairoUniversity 
+- 🔭 I’m currently working on GSoC21 [@RedHenLab](https://www.redhenlab.org/)
+- 🌱 Currently attending my last year of Computer Engineering [@CairoUniversity](http://eng.cu.edu.eg/en/)
 - 💬 Ask me about anything right there rrrokhtar@gmail.com
 - 📫 Want to know more about me visit this https://rrrokhtar.github.io/
+- :bookmark_tabs: Blogging at https://rrrokhtar.hashnode.dev/
+
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=rrrokhtar>
   </a>
