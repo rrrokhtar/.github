@@ -1,18 +1,15 @@
 <div align=center>
  <h1>Hey there!</h1>
 
-- 🔭 I’m currently working on GSoC21 [@RedHenLab](https://www.redhenlab.org/)
-- 🌱 Currently attending my last year of Computer Engineering [@CairoUniversity](http://eng.cu.edu.eg/en/)
-- 💬 Ask me about anything right there rrrokhtar@gmail.com
-- 📫 Want to know more about me visit this https://rrrokhtar.github.io/
-- :bookmark_tabs: Blogging at https://rrrokhtar.hashnode.dev/
+ 🔭 I’m currently working on GSoC21 [@RedHenLab](https://www.redhenlab.org/)  
+ 💬 Ask me about anything right there rrrokhtar@gmail.com  
+ 📫 Want to know more about me visit this https://rrrokhtar.github.io/  
+ :bookmark_tabs: Blogging at https://rrrokhtar.hashnode.dev/  
 
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=rrrokhtar>
-  </a>
-</p>
-  </div>
-
+  <p align="center">
+  <img src=https://github-readme-stats.vercel.app/api?username=rrrokhtar>
+  </p>
+</div>
 <!--
 👋
 Here are some ideas to get you started:
@@ -25,6 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://komarev.com/ghpvc/?username=mohamed-mokhtar)
+
 
 -->
