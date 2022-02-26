@@ -1,14 +1,14 @@
 <div align=center>
  <h1>Hey there!</h1>  
-
- 💬 Ask me about anything right there rrrokhtar@gmail.com  
- 📫 Want to know more about me visit this https://rrrokhtar.github.io/  
-![rrrokhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrrokhtar&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrrokhtar&hide=html,Stata,Jupyter%20Notebook,PHP&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
+
+![visit-me](https://user-images.githubusercontent.com/39674365/123473661-289ec980-d5f9-11eb-83c9-cbac3a2db16e.gif)
+
 <!-- 
 👋
+💬 Ask me about anything right there rrrokhtar@gmail.com  
+![rrrokhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrrokhtar&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrrokhtar&hide=html,Stata,Jupyter%20Notebook,PHP&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
  ⚡Currently working as SWE [@AJAXSolution](https://ajaxsolutions-eg.com/)  
  🔭 I have been a GSoC'21 participant [@RedHenLab](https://www.redhenlab.org/)  
