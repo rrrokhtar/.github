@@ -2,10 +2,11 @@
  <h1>Hey there!</h1>  
 </div>
 
-[![Personal-Website](https://user-images.githubusercontent.com/39674365/155856876-b782aee4-1d7d-4d23-8712-bc63f4ae8c1e.gif)](https://rrrokhtar.github.io/)
-
 <!-- 
 👋
+
+[![Personal-Website](https://user-images.githubusercontent.com/39674365/155856876-b782aee4-1d7d-4d23-8712-bc63f4ae8c1e.gif)](https://rrrokhtar.github.io/)
+
 💬 Ask me about anything right there rrrokhtar@gmail.com  
 ![rrrokhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrrokhtar&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrrokhtar&hide=html,Stata,Jupyter%20Notebook,PHP&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
