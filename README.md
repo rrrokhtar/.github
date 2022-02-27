@@ -1,11 +1,12 @@
 <div align=center>
  
-![giphy (4)](https://user-images.githubusercontent.com/39674365/155858471-45d17658-c2d4-4faf-9b6d-b3386752873e.gif)
 
 </div>
 
 <!-- 
 👋
+
+![giphy (4)](https://user-images.githubusercontent.com/39674365/155858471-45d17658-c2d4-4faf-9b6d-b3386752873e.gif)
 
 ![giphy (1)](https://user-images.githubusercontent.com/39674365/155858360-eaf76002-e1b7-497a-a6b3-ba7462929c0a.gif)
 
