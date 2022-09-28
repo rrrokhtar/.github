@@ -3,7 +3,7 @@
 
   <basic-info>
     <h1 id="name" >Mohamed Mokhtar</h1>
-      <h5 id="title">Software Development and Design Engineer (SDE)</h5>
+      <h5 id="title">Software Development Engineer (SDE)</h5>
       <div class="container">
         <h6 id="subtitle"> </h6>
       </div>
@@ -20,12 +20,12 @@
 <hr/>
 <div align=center>
 
-![image](https://user-images.githubusercontent.com/39674365/192858613-0dbed1ba-a4a8-4563-81d4-347d56267298.png)
-
-  <hr/>
-  
   ![image](https://user-images.githubusercontent.com/39674365/192858524-25ea037c-f959-4a87-9bc0-0802d5bd7fa9.png)
   
+  <hr/>
+  
+![image](https://user-images.githubusercontent.com/39674365/192858613-0dbed1ba-a4a8-4563-81d4-347d56267298.png)
+
 </div>
 <!--
 👋
