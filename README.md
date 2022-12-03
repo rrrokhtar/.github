@@ -17,10 +17,8 @@
 
 
 </div>
-<hr/>
 <div align=center>
 
-  ![image](https://user-images.githubusercontent.com/39674365/192858524-25ea037c-f959-4a87-9bc0-0802d5bd7fa9.png)
   
   <hr/>
   
