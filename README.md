@@ -24,6 +24,13 @@
   
 ![image](https://user-images.githubusercontent.com/39674365/192858613-0dbed1ba-a4a8-4563-81d4-347d56267298.png)
 
+  
+  
+### Visitor count
+<!--<img src="https://profile-counter.glitch.me/rrrokhtar/count.svg" />-->
+![Visitor Count](https://profile-counter.glitch.me/rrrokhtar/count.svg)
+
+  
 </div>
 <!--
 👋
