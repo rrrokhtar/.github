@@ -26,7 +26,6 @@
 
   
   
-### Visitor count
 <!--<img src="https://profile-counter.glitch.me/rrrokhtar/count.svg" />-->
 ![Visitor Count](https://profile-counter.glitch.me/rrrokhtar/count.svg)
 
