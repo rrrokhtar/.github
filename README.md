@@ -9,7 +9,7 @@
       </div>
   </basic-info>
 
-- Looking to find a good opportunity (full-time) 🔭
+- Looking to finding a good opportunity (full-time) 🔭
 - I’m working in software development and engineering ⚡
 - Currently learning new things and stuff about multiple things 🌱
 - Computer Engineering graduate from Cairo University, Egypt, Class of 2021 📫
