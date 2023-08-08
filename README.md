@@ -3,7 +3,7 @@
 
   <basic-info>
     <h1 id="name" >Mohamed Mokhtar</h1>
-      <h5 id="title">Computer Scientist & Engineer </h5>
+      <h5 id="title">Computer Scientist (Engineer) </h5>
       <div class="container">
         <h6 id="subtitle"> </h6>
       </div>
