@@ -8,10 +8,10 @@
         <h6 id="subtitle"> </h6>
       </div>
   </basic-info>
-  
+
+- Looking to find a good opportunity (full-time) 🔭
 - I’m working in software development and engineering ⚡
 - Currently learning new things and stuff about multiple things 🌱
-- Looking to find a good opportunity (full-time) remotely or abroad 🔭
 - Computer Engineering graduate from Cairo University, Egypt, Class of 2021 📫
 - You can also visit me on [LinkedIn](https://www.linkedin.com/in/rrrokhtar/) and connect, that is good to get connected to others 😄
 
