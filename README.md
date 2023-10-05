@@ -2,11 +2,8 @@
   
 
   <basic-info>
-    <h1 id="name" >Mohamed Mokhtar</h1>
-      <h5 id="title">Computer Scientist (Engineer) </h5>
-      <div class="container">
-        <h6 id="subtitle"> </h6>
-      </div>
+    <h1>Mohamed Mokhtar</h1>
+      <h5>Computer Scientist (Engineer) </h5>
   </basic-info>
 
 - Looking to finding a good opportunity (full-time) 🔭
@@ -31,6 +28,7 @@
   
 </div>
 <!--
+
 👋
 Here are some ideas to get you started:
 - Ask me about anything right there rrrokhtar@gmail.com 💬
