@@ -3,7 +3,7 @@
 
   <basic-info>
     <h1>Mohamed Mokhtar</h1>
-      <h5>Computer Scientist (Engineer) </h5>
+      <h5>Computer Engineer </h5>
   </basic-info>
 
 - Looking to finding a good opportunity (full-time) 🔭
